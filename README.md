@@ -4,7 +4,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=charlesabj&label=Profile%20views&color=0e75b6&style=flat)
 
 <ul>
-  <li>🖥️ Consultez mon portfolio sur Portfolio</li>
+  <li>🖥️ Consultez mon portfolio sur <a href="">Portfolio <a/> </li>
   <li>🧠 J'apprends actuellement Next.js</li>
   <li>🤝 Je suis ouvert à la collaboration sur tout type de projets intéressants en tant que développeur😁</li>
 </ul>
