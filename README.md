@@ -35,7 +35,7 @@
 </p>
 
 ## Social :
-<a href="https://linkedin.com/in/charlesabj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charlesabj" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/charlesabj-78753b182/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charlesabj" height="30" width="40" /></a>
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=charlesabj&show_icons=true&locale=en)
 
