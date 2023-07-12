@@ -1,6 +1,6 @@
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWt0Y3R3c29xcTFvMjh4azkzcmJ5YTIwamFjZm50a3Y4eWRvd3NvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PkSNiskWVZPocqnBvp/giphy.gif" alt="coucou" width="50px" />  I'm Charles ABJ </h1>
 
-<p align="center" style="text-decoration: none;"><b>A passionate Front-End Developer</b></p>
+<h3 align="center" style="text-decoration: none;">A passionate Front-End Developer</h3>
 <p> <img src="https://komarev.com/ghpvc/?username=charlesabj&label=Profile%20views&color=0e75b6&style=flat" alt="charlesabj" /> </p>
 
 
@@ -12,7 +12,7 @@
 </ul>
 </br>
 
-<b>My Technos :</b>
+<h4>My Technos :</h4>
 <p> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -37,7 +37,7 @@
     </a> 
 </p>
 </br>
-<b>Social :</b>  </br>  </br>
+<h4>Social :</h4>  </br>  </br>
  <p>
 <a href="https://www.linkedin.com/in/charlesabj-78753b182/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charlesabj" height="30" width="40" /></a> </p>
 
