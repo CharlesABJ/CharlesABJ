@@ -10,7 +10,6 @@
   <li>🌍 Passionate about web accessibility and performance optimization 🚀</li>
   <li>🤝 Open to collaborating on exciting developer projects 😁</li>
 </ul>
-</br>
 
 <h4>My Technos :</h4>
 <p> 
@@ -36,8 +35,8 @@
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
     </a> 
 </p>
-</br>
-<h4>Social :</h4>  </br>  </br>
+
+<h4>Social :</h4>
  <p>
 <a href="https://www.linkedin.com/in/charlesabj-78753b182/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charlesabj" height="30" width="40" /></a> </p>
 
