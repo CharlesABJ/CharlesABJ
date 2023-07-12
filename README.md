@@ -37,6 +37,9 @@
 ## Social :
 <a href="https://www.linkedin.com/in/charlesabj-78753b182/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charlesabj" height="30" width="40" /></a>
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesABJ&theme=tokyonight
+)
+
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=charlesabj&show_icons=true&locale=en)
 
 
