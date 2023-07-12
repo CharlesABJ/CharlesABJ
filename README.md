@@ -6,13 +6,13 @@
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=charlesabj&label=Profile%20views&color=0e75b6&style=flat" alt="charlesabj" /> </p>
 
 <ul>
-  <li>🖥️ Consultez mon portfolio sur <a href="">Portfolio <a/> </li>
-  <li>🧠 J'apprends actuellement Next.js</li>
-  <li>🤝 Je suis ouvert à la collaboration sur tout type de projets intéressants en tant que développeur😁</li>
+  <li>🖥️ See my portfolio at <a href="">Portfolio<a/> </li>
+  <li>🧠 Currently learning Next.js</li>
+  <li>🤝 Open to collaborating on exciting developer projects 😁</li>
 </ul>
 
 
-## Mes Technos
+## My Technos
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -37,7 +37,7 @@
     </a> 
 </p>
 
-## Social :
+## Social 
 <a href="https://www.linkedin.com/in/charlesabj-78753b182/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charlesabj" height="30" width="40" /></a>
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesABJ
