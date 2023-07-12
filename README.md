@@ -1,9 +1,8 @@
-# Hi <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWt0Y3R3c29xcTFvMjh4azkzcmJ5YTIwamFjZm50a3Y4eWRvd3NvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PkSNiskWVZPocqnBvp/giphy.gif" alt="coucou" width="50px" />  I'm Charles ABJ
+<h1 align="center"> Hi <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWt0Y3R3c29xcTFvMjh4azkzcmJ5YTIwamFjZm50a3Y4eWRvd3NvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PkSNiskWVZPocqnBvp/giphy.gif" alt="coucou" width="50px" />  I'm Charles ABJ </h1>
 
+<h2 align="center" style="text-decoration: none;">A passionate Front-End Developer</h2>
+<p> <img src="https://komarev.com/ghpvc/?username=charlesabj&label=Profile%20views&color=0e75b6&style=flat" alt="charlesabj" /> </p>
 
-
-## A passionate Front-End Developer
-<p align="left"> <img src= "https://komarev.com/ghpvc/?username=charlesabj&label=Profile%20views&color=0e75b6&style=flat" alt="charlesabj" /> </p>
 
 <ul>
   <li>🖥️ See my portfolio at <a href="">Portfolio<a/> </li>
@@ -13,7 +12,7 @@
 
 
 ## My Technos
-<p align="left"> 
+<p align="center"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     </a> 
