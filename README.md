@@ -1,7 +1,7 @@
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWt0Y3R3c29xcTFvMjh4azkzcmJ5YTIwamFjZm50a3Y4eWRvd3NvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PkSNiskWVZPocqnBvp/giphy.gif" alt="coucou" width="50px" />  I'm Charles ABJ </h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=091F28CC&width=435&lines=A+passionate+Front-End+Developer+💻" alt="Typing SVG" /></a></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=808080&width=435&lines=A+passionate+Front-End+Developer+💻" alt="Typing SVG" /></a></p>
 <p> <img src="https://komarev.com/ghpvc/?username=charlesabj&label=Profile%20views&color=0e75b6&style=flat" alt="charlesabj" /> </p>
 
 
