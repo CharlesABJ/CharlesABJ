@@ -6,7 +6,7 @@
 
 
 <ul>
-  <li>🖥️ See my portfolio at <a href="">Portfolio<a/> </li>
+  <li>🖥️ See my portfolio at <a href="https://github.com/CharlesABJ/portfolio">Portfolio<a/> </li>
   <li>🧠 Currently learning Next.js</li>
   <li>🚀 Front-end development with a focus on web accessibility and performance optimization</li>
   <li>🤝 Open to collaborating on exciting developer projects 😁</li>
