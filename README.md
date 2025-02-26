@@ -6,7 +6,7 @@
 
 
 <ul>
-  <li>🖥️ See my portfolio at <a href="https://charlesabj.vercel.app/">Portfolio<a/> </li>
+  <li>🖥️ See my portfolio at <a target="_blank" href="https://charlesabj.vercel.app/">Portfolio<a/> </li>
   <li>🧠 Currently learning Next.js</li>
   <li>🚀 Front-end development with a focus on web accessibility and performance optimization</li>
   <li>🤝 Open to collaborating on exciting developer projects 😁</li>
